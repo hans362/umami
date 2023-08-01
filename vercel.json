@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/*",
-      "destination": "https://s9.0vv0.top/api/*"
+      "source": "/api/(.*)",
+      "destination": "https://s9.0vv0.top/api/(.*)"
     }
   ]
 }
